@@ -3,6 +3,7 @@ I have created a Minecraft Tamagotchi app
 
 
 Essay
+[Comprehensive report tamagotchi app.docx](https://github.com/Amongubishh/Tamagotchi-app/files/15220148/Comprehensive.report.tamagotchi.app.docx)
 Comprehensive report: History application
 IMAD assignment2
 Name: Mikhail Govender
@@ -24,8 +25,8 @@ Page:
 Comprehensive report: Minecraft Tamagotchi app
 Introduction
 
-The Tamagotchi application I have designed is Minecraft theme to appeal to a wide audience of people who already love and play the game.  It is simple for users of almost all ages to play and enjoy. They can pick between 2 pets and then take care of them. This game is fun and made so that you feel you are taking care of a real pet. This application was a success as it f[Comprehensive report tamagotchi app.docx](https://github.com/Amongubishh/Tamagotchi-app/files/15220008/Comprehensive.report.tamagotchi.app.docx)
-eels just like the 
+The Tamagotchi application I have designed is Minecraft theme to appeal to a wide audience of people who already love and play the game.  It is simple for users of almost all ages to play and enjoy. They can pick between 2 pets and then take care of them. This game is fun and made so that
+ you feel you are taking care of a real pet. This application was a success as it feels just like the 
  popular 1990s virtual pet toy, Tamagotchi. 
 
 2. Purpose of the App
