@@ -3,7 +3,9 @@ I have created a Minecraft Tamagotchi app
 
 
 Essay
+
 [Comprehensive report tamagotchi app.docx](https://github.com/Amongubishh/Tamagotchi-app/files/15220148/Comprehensive.report.tamagotchi.app.docx)
+
 Comprehensive report: History application
 IMAD assignment2
 Name: Mikhail Govender
